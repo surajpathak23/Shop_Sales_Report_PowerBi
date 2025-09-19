@@ -2,7 +2,7 @@
 This is a repository for visualization of sales in a shop by different categories.
 
 # :man_student:Dashboard:joystick:
-![Sales-dashboard-shop.png](https://github.com/farhansadeed/Sales_Report_PowerBi/blob/main/Sales-dashboard-shop.png)
+![Sales-dashboard-shop.png](https://github.com/surajpathak23/Shop_Sales_Report_PowerBi/blob/main/Sales-dashboard-shop.png)
 
 <hr />
 <br />
